@@ -1,5 +1,4 @@
-﻿using System;
-namespace apbd_1
+﻿namespace apbd_1
 {
     class Program
     {
