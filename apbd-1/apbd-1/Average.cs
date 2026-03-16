@@ -8,4 +8,8 @@ namespace apbd_1
     public static int CalculateMin(int[] values){
         return values.Min();
     }
+
+    public static int CalculateAverage(int[] values){
+        return values.Min();
+    }
 }
