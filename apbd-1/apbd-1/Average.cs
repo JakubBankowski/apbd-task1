@@ -1,6 +1,10 @@
 namespace apbd_1
 {
-    public void CalculateMax(int[] values){
-        
+    public int CalculateMax(int[] values){
+
+    }
+
+    public int CalculateMin(int[] values){
+
     }
 }
