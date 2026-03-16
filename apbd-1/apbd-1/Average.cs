@@ -1,10 +1,11 @@
+
 namespace apbd_1
 {
-    public int CalculateMax(int[] values){
-
+    public static int CalculateMax(int[] values){
+        return values.Max();
     }
 
-    public int CalculateMin(int[] values){
-
+    public static int CalculateMin(int[] values){
+        return values.Min();
     }
 }
