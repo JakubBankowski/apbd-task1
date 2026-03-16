@@ -2,6 +2,8 @@
 {
     class Program
     {
+        
+        
         static void Main(string[] args)
         {
             Player player1 = new Player("gracz1");
